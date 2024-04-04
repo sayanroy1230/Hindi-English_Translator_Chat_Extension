@@ -1,2 +1,1 @@
-https://chromewebstore.google.com/detail/hindi-eng-translator-chat/ahmkebkdnajilpagfmghiakkfilbpppc?hl=en-GB&authuser=0 <br>
-Click on the above link to download and use the chrome extension
+[Click on this link](https://chromewebstore.google.com/detail/hindi-eng-translator-chat/ahmkebkdnajilpagfmghiakkfilbpppc?hl=en-GB&authuser=0) to download and use the chrome extension
